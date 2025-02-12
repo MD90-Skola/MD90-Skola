@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about programming, tech, and learning new t
 ---
 
 ### 📊 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silent-raccoon&show_icons=true&theme=dark)](https://github.com/MD90-Skola/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD90-Skola&show_icons=true&theme=dark)](https://github.com/MD90-Skola/github-readme-stats)  
 
 ---
 
