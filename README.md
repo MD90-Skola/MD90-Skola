@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Welcome to my GitHub! I'm passionate about programming, tech, and learning new things 👽
+Welcome to my GitHub! I'm passionate about programming, tech, and learning new things 🦝
 
 ### 🚀 About Me
 - 🔭 Currently studying **fullstack development** 
