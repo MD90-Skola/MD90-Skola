@@ -14,7 +14,7 @@
 ---
 
 ### ⚡ Tech Stack  
-Here are some of the technologies and tools I work with:  
+Tools and frameworks I use:  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
