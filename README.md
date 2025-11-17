@@ -1,33 +1,79 @@
-# Hey there! 👋
-💻 Fullstack student | 🎥 Video Editing | 🚀 Tech Enthusiast  
+# 👋 Hej, jag heter Michel Dahl  
+🎓 **Fullstackstudent (Java)** | ☁️ **AWS-inriktad** | 🤖 **AI- och agentsystem-entusiast**
 
+Jag studerar till **fullstackutvecklare** med fokus på **Java, SQL, webbutveckling och moderna molntjänster**. Vid sidan av utbildningen går jag även **AWS Developer Associate 2025 (DVA-C02)** och fördjupar mig i **AI, RAG-modeller, agentiska system och serverless-teknik**.
 
-- 🔭 Currently studying **fullstack development** 
-- 🎯 Interested in **SQL, APIs, CSS**, and everything backend-related  
-- 📺 Check out my [YouTube](https://www.youtube.com/@Doctor9Raccoon)  
-
----
-
-### 📊 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD90-Skola&show_icons=true&theme=dark)](https://github.com/MD90-Skola/github-readme-stats)  
+Mitt långsiktiga mål är att kombinera **Java, AI och Cloud** för att skapa smarta, skalbara och automatiserade system.
 
 ---
 
-### ⚡ Tech Stack  
-Tools and frameworks I use:  
+## 🚀 Pågående utbildningar
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=api&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![DJI](https://img.shields.io/badge/DJI-FF0000?style=for-the-badge&logo=dji&logoColor=white)
+### **Fullstackutvecklare – Lexicon (2025–2026)**
+- Java, OOP, Collections, Streams  
+- Spring Boot, REST, React  
+- SQL och relationsdatabaser  
+- Modern systemutveckling, arkitektur och DevOps-grunder  
+
+### **Praktik – Capgemini (2025–2026)**
+- AWS-grunder & certifieringsträning  
+- Agentisk AI, RAG-modeller & pipelines  
+- Etik, säkerhet och ansvarsfull AI  
+- Introduktion till stora och komplexa systemmiljöer  
+
+### **Ultimate AWS Certified Developer Associate (DVA-C02) – Pågår**
+- Lambda, API Gateway, DynamoDB  
+- SQS/SNS, IAM  
+- CI/CD i AWS  
+- Förberedelser & praktiska prov  
 
 ---
 
-### 📫 Contact  
-📧 Reach me on **GitHub** or **YouTube comments**  
+## 🧠 Tekniker & Kompetenser
+
+### **Backend & Java**
+- Java Fundamentals 1 & 2  
+- OOP, Collections, Streams  
+- JDBC, Maven  
+- Spring Core, Spring Boot (Data JPA)  
+- Spring REST  
+
+### **Frontend**
+- HTML & CSS  
+- JavaScript  
+- React (grundläggande)
+
+### **Databaser**
+- MySQL  
+- SQL-frågor, joins och datamodellering  
+
+### **Cloud & DevOps**
+- AWS (Lambda, DynamoDB, API Gateway, SQS/SNS, IAM) – *pågående*  
+- Docker  
+- Git & GitHub  
+
+### **AI & Automatisering**
+- RAG-modeller  
+- Lokala LLM:er (GGUF)  
+- Prompt Engineering  
+- Enklare agentiska system  
+- Python (påbörjat)
+
+---
+
+## 🔧 Projekt jag arbetar på just nu
+- 🧩 Agentiskt AI-system med smart filtrering och automatisering  
+- ☁️ Serverless-projekt i AWS med Lambda, API Gateway och DynamoDB  
+- 📦 Java-backendprojekt i Spring Boot med SQL  
+- 🤖 Experiment med lokala LLM:er och RAG-baserad informationshämtning  
+
+---
+
+## 🎯 Mål
+Att arbeta som **Java- och molnutvecklare** med fokus på **AI-drivna system**, dataprocessering och modern automatisering.
+
+---
+
+## 📫 Kontakt
+🌐 **www.minikod.se**  
+
