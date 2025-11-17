@@ -1,5 +1,5 @@
 # 👋 Hej, jag heter Michel Dahl  
-🎓 **Fullstackstudent (Java)** | ☁️ **AWS-inriktad** | 🤖 **AI- och agentsystem-entusiast**
+🎓 **Fullstackstudent (Java)** | ☁️ **AWS-inriktad** |  **AI- och agentsystem-entusiast**
 
 Jag studerar till **fullstackutvecklare** med fokus på **Java, SQL, AWS, AI-utveckling och moderna webbsystem**.  
 Mitt mål är att kombinera **Java + Cloud + AI** för att bygga smarta, skalbara och automatiserade system.
@@ -89,7 +89,6 @@ Backend-projekt i Java:
 ---
 
 ## 📊 GitHub Stats
-*(kan tas bort om du vill)*  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD90-Skola&show_icons=true&theme=dark)](https://github.com/MD90-Skola)
 
 ---
@@ -102,4 +101,4 @@ Jag vill skapa smarta och skalbara lösningar inom **agentiska AI-system, server
 
 ## 📫 Kontakt
 🌐 **www.minikod.se**  
-📺 YouTube — https://www.youtube.com/@Doctor9Raccoon  
+
